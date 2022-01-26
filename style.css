@@ -23,10 +23,15 @@ main {
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 a:visited {
     color: black;
+}
+
+li {
+    margin: 5px;
 }
 
 .recipe-item {
